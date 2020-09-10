@@ -1,12 +1,12 @@
 import React from "react";
 // import logo from './logo.svg';
 import "./App.css";
-import Nav from "./component/Nav/Nav";
+import Container from "./component/Container/Container";
 
 function App() {
   return (
     <div className="App">
-      <Nav />
+      <Container />
     </div>
   );
 }
